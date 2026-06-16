@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,customer_segment,region,category,product_name,units,unit_price,revenue,margin_pct,returned
+ORD-00001,1/3/2024,CUST-4821,Premium,North,Electronics,Pro X Laptop 15",1,226,226,34,No
+ORD-00002,1/5/2024,CUST-2103,Regular,West,Apparel,Winter Jacket Parka,2,77,154,44,No
+ORD-00003,1/6/2024,CUST-8834,Occasional,East,Sports,Yoga Mat Professional,3,30,90,56,No
+ORD-00004,1/7/2024,CUST-1129,New,South,Home & Living,Sofa Set 3-Piece,1,481,481,26,No
+ORD-00005,1/9/2024,CUST-5562,Premium,North,Electronics,Wireless Earbuds X,2,62,124,41,Yes
+ORD-00006,1/10/2024,CUST-3345,Regular,West,Sports,Running Shoes Pro,1,61,61,48,No
+ORD-00007,1/12/2024,CUST-7721,Premium,East,Electronics,Smart TV 55",1,323,323,29,No
+ORD-00008,1/14/2024,CUST-2987,Occasional,North,Apparel,Slim Fit Chinos,2,36,72,51,No
+ORD-00009,1/15/2024,CUST-6610,Regular,South,Home & Living,Coffee Maker Pro,1,76,76,37,No
+ORD-00010,1/16/2024,CUST-4401,New,West,Sports,Hiking Boot GTX,1,75,75,39,No
+ORD-00011,1/18/2024,CUST-8812,Premium,North,Electronics,Pro X Laptop 15",1,226,226,34,No
+ORD-00012,1/19/2024,CUST-1234,Regular,East,Apparel,Winter Jacket Parka,1,77,77,44,Yes
+ORD-00013,1/21/2024,CUST-5592,Premium,West,Electronics,Wireless Earbuds X,3,62,186,41,No
+ORD-00014,1/22/2024,CUST-3389,Occasional,South,Sports,Yoga Mat Professional,2,30,60,56,No
+ORD-00015,1/24/2024,CUST-7743,Regular,North,Home & Living,Coffee Maker Pro,1,76,76,37,No
+ORD-00016,2/1/2024,CUST-2218,Premium,West,Electronics,Smart TV 55",1,323,323,29,No
+ORD-00017,2/3/2024,CUST-9901,New,East,Apparel,Slim Fit Chinos,1,36,36,51,No
+ORD-00018,2/4/2024,CUST-4456,Regular,South,Sports,Running Shoes Pro,2,61,122,48,No
+ORD-00019,2/6/2024,CUST-1167,Premium,North,Electronics,Pro X Laptop 15",2,226,452,34,No
+ORD-00020,2/8/2024,CUST-6623,Occasional,West,Home & Living,Sofa Set 3-Piece,1,481,481,26,Yes
+ORD-00021,2/10/2024,CUST-3312,Regular,East,Sports,Hiking Boot GTX,1,75,75,39,No
+ORD-00022,2/11/2024,CUST-8845,Premium,North,Electronics,Wireless Earbuds X,2,62,124,41,No
+ORD-00023,2/13/2024,CUST-5578,New,South,Apparel,Winter Jacket Parka,1,77,77,44,No
+ORD-00024,2/15/2024,CUST-2290,Regular,West,Sports,Yoga Mat Professional,4,30,120,56,No
+ORD-00025,2/16/2024,CUST-7756,Premium,East,Electronics,Smart TV 55",1,323,323,29,No
+ORD-00026,3/2/2024,CUST-4467,Regular,North,Home & Living,Coffee Maker Pro,2,76,152,37,No
+ORD-00027,3/4/2024,CUST-1190,Occasional,West,Apparel,Slim Fit Chinos,3,36,108,51,No
+ORD-00028,3/5/2024,CUST-6634,Premium,East,Electronics,Pro X Laptop 15",1,226,226,34,No
+ORD-00029,3/7/2024,CUST-3323,New,South,Sports,Running Shoes Pro,1,61,61,48,No
+ORD-00030,3/9/2024,CUST-8856,Regular,North,Home & Living,Sofa Set 3-Piece,1,481,481,26,No
+ORD-00031,4/1/2024,CUST-5589,Premium,West,Electronics,Wireless Earbuds X,4,62,248,41,No
+ORD-00032,4/3/2024,CUST-2201,Regular,East,Sports,Yoga Mat Professional,2,30,60,56,No
+ORD-00033,4/5/2024,CUST-7767,Occasional,South,Apparel,Winter Jacket Parka,1,77,77,44,Yes
+ORD-00034,4/7/2024,CUST-4478,Premium,North,Electronics,Smart TV 55",2,323,646,29,No
+ORD-00035,4/9/2024,CUST-1101,New,West,Sports,Hiking Boot GTX,2,75,150,39,No
+ORD-00036,5/2/2024,CUST-6645,Regular,East,Home & Living,Coffee Maker Pro,1,76,76,37,No
+ORD-00037,5/4/2024,CUST-3334,Premium,North,Electronics,Pro X Laptop 15",1,226,226,34,No
+ORD-00038,5/6/2024,CUST-8867,Occasional,South,Apparel,Slim Fit Chinos,2,36,72,51,No
+ORD-00039,5/8/2024,CUST-5590,Regular,West,Sports,Running Shoes Pro,3,61,183,48,No
+ORD-00040,5/10/2024,CUST-2212,New,East,Home & Living,Sofa Set 3-Piece,1,481,481,26,No
+ORD-00041,6/3/2024,CUST-7778,Premium,North,Electronics,Wireless Earbuds X,2,62,124,41,No
+ORD-00042,6/5/2024,CUST-4489,Regular,West,Sports,Yoga Mat Professional,5,30,150,56,No
+ORD-00043,6/7/2024,CUST-1112,Occasional,East,Apparel,Winter Jacket Parka,2,77,154,44,No
+ORD-00044,6/9/2024,CUST-6656,Premium,South,Electronics,Smart TV 55",1,323,323,29,No
+ORD-00045,6/11/2024,CUST-3345,New,North,Sports,Hiking Boot GTX,1,75,75,39,No
+ORD-00046,7/2/2024,CUST-8878,Regular,West,Home & Living,Coffee Maker Pro,2,76,152,37,No
+ORD-00047,7/4/2024,CUST-5501,Premium,East,Electronics,Pro X Laptop 15",1,226,226,34,No
+ORD-00048,7/6/2024,CUST-2223,Occasional,South,Apparel,Slim Fit Chinos,1,36,36,51,Yes
+ORD-00049,7/8/2024,CUST-7789,Regular,North,Sports,Running Shoes Pro,2,61,122,48,No
+ORD-00050,7/10/2024,CUST-4490,Premium,West,Electronics,Wireless Earbuds X,3,62,186,41,No
